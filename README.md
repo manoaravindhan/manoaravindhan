@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mano Aravindhan Gandhi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manoaravindhan&label=Profile%20views&color=0e75b6&style=flat" alt="manoaravindhan" /> </p>
 
-- 🌱 I’m currently learning **Cloud Technologies**
+- 🌱 I’m currently learning **AI, Cloud Technologies**
 
-- 💬 Ask me about **React, JavaScript**
+- 💬 Ask me about **React, JavaScript, Java**
 
 - 📫 How to reach me **manoaravindhan@gmail.com**
 
