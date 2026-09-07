@@ -30,15 +30,6 @@ Promoted to **SMTS (Staff equivalent) during Informatica-Salesforce acquisition*
 **Backend & Cloud & AI**
 `Node.js` `AWS (CloudFront, Lambda, S3)` `Systems Design` `Enterprise Architecture` `Agentforce AI` `Steel-Thread Architecture`
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manoaravindhan&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="mano stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manoaravindhan&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true" alt="top langs" />
-</p>
-
 ### 📫 Reach Me
 - **Portfolio:** https://manoaravindhan.github.io/
 - **LinkedIn:** https://linkedin.com/in/manoaravindhan
