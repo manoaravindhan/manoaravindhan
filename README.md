@@ -32,9 +32,11 @@ Promoted to **SMTS (Staff equivalent) during Informatica-Salesforce acquisition*
 
 ### 📊 GitHub Stats
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=manoaravindhan&show_icons=true&theme=dark" alt="mano stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=manoaravindhan&show_icons=true&locale=en&layout=compact&theme=dark" alt="top langs" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=manoaravindhan&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="mano stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manoaravindhan&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true" alt="top langs" />
 </p>
 
 ### 📫 Reach Me
